@@ -6,7 +6,7 @@
 
 There are two ways I've used to send this application to someone:
 
-<ul>
+<ul style="font-size = 40px">
   <li>upload the application to send as a website, for example using github pages(the one i used) (less secure and completely public)</li>
   <li>Sending the files in a zip to the person meant to recive (more secure and private)</li>
 </ul>
