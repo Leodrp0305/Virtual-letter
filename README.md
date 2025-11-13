@@ -7,6 +7,8 @@
 There are two ways I've used to send this application to someone:
 
 <ul>
-  <li>Hosting a website using any plataform in my case it was <a href="https://pages.github.com" target="_blank">GitHub Pages</a>) </li>
+  <li>Hosting a website using any plataform in my case it was <a href="https://pages.github.com" target="_blank">GitHub Pages</a> </li>
   <li>Sending the compacted files in zip for example to the person meant to recive the letter</li>
 </ul>
+
+Hosting a website is easier to the one receiving and recommended if the person have no knowledge in the area, 'cause there is a big chance the person won't find out how to open the letter if it's the case, thought it's is easier a important thing to keep in mind is that the website is public to anyone which finds the url. (Can be embarrassing😳)
