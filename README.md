@@ -3,7 +3,7 @@ A personal project designed to work as a online letter. Even tho letters may fee
 
 <h1>How to use?</h1>
 
-< There are two ways I've used to send this application to someone:
+> There are two ways I've used to send this application to someone:
 
 <ul>
   <li>upload the application to send as a website, for example using github pages(the one i used) (less secure and completely public)</li>
