@@ -24,10 +24,10 @@ There are two ways I've used to send this application to someone:
 ## Technologies used:
 
 
-<ol>
-  <li> **CSS** </li>
-  <li> **HTML** </li>
-  <li> **JAVASCRIPT** </li>
+### <ol>
+  <li> CSS </li>
+  <li> HTML </li>
+  <li> JAVASCRIPT </li>
   
 </ol>
 
