@@ -30,9 +30,9 @@ There are two ways I've used to send this application to someone:
   <li> JAVASCRIPT </li>
 </ol>
 
-## Guide?
+## Guide:
 
-> To use the online letter the text content inside the letter should be defined inside the html file, inside the blockquote. Feel free to change anything in the aplication, changing colors, animations and everything.
+> To use the online letter the text content inside the letter should be defined inside the html file, inside the blockquote. Feel free to change anything in the aplication, changing colors, animations and everything. Have fun!
   
 
 
