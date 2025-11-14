@@ -24,10 +24,16 @@ There are two ways I've used to send this application to someone:
 ## Technologies used:
 
 
-### <ol>
+<ol>
   <li> CSS </li>
   <li> HTML </li>
   <li> JAVASCRIPT </li>
-  
 </ol>
+
+## Guide
+
+To use the online letter the text content inside the letter should be defined inside the html file, inside the blockquote. Feel free to change anything in the aplication, changing colors, animations and everything.
+  
+
+
 
